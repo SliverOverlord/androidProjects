@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DeNioA4RecyclerView</string>
+    <string name="pug">Pug</string>
+    <string name="golden_retriever">Golden Retriever</string>
+    <string name="australian_shepherd">Australian Shepherd</string>
+    <string name="chihuahua">Chihuahua</string>
+    <string name="cocker_spaniel">Cocker Spaniel</string>
+    <string name="collie">Collie</string>
+    <string name="corgi">Corgi</string>
+    <string name="dachshund">Dachshund</string>
+    <string name="doberman">Doberman</string>
+    <string name="german_shepherd">German Shepherd</string>
+    <string name="malamute">Malamute</string>
+    <string name="papillon">Papillon</string>
+    <string name="pomeranian">Pomeranian</string>
+    <string name="shitzu">Shih Tzu</string>
+    <string name="water_Spaniel">American Water Spaniel</string>
+    <string name="wolf">Wolf</string>
+    <string name="backBtn">Back</string>
+
+</resources>

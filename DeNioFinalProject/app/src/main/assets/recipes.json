@@ -1,0 +1,33 @@
+{
+  "recipes":[
+    {
+      "name":"Hard Boiled Eggs",
+      "ingredients":
+      {
+        "Eggs":3
+      }
+    },
+    {
+      "name":"Rice",
+      "ingredients":
+      {
+        "Rice":1
+      }
+    },
+    {
+      "name":"Toast",
+      "ingredients":
+      {
+        "Bread Slices":2,
+        "Butter":0.1
+      }
+    },
+    {
+      "name":"cereal",
+      "ingredients":
+      {
+        "Milk":1,
+        "Cereal":1
+      }
+    }
+]}

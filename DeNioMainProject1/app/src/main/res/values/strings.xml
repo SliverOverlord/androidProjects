@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">DeNioMainProject1</string>
+    <string name="welcomeTxt">Welcome to The State Quiz</string>
+    <string name="nameLbl">Name</string>
+    <string name="nameHint">Enter Your Name</string>
+    <string name="startBtnText">Start</string>
+    <string name="numLbl">Select Number of Questions</string>
+
+    <string-array name="questions">
+        <item>What state is well known for its forest fires?</item>
+        <item>What state has the worlds most active volcano?</item>
+        <item>Minnesota is the nations largest state</item>
+        <item>What US state is the farthest south</item>
+        <item>True or false: Hawaii became a state on August 21, 1959</item>
+        <item>Select the US state that is the farthest north</item>
+    </string-array>
+
+    <string name="q1">What state is well known for its forest fires?</string>
+    <string name="q2">What state has the worlds most active volcano?</string>
+    <string name="q3">Minnesota is the nations largest state</string>
+    <string name="q4">What US state is the farthest south</string>
+    <string name="q5">True or false: Hawaii became a state on August 21, 1959</string>
+    <string name="q6">Select the US state that is the farthest north</string>
+
+    <string-array name="states">
+        <item>Califonia</item>
+        <item>Hawaii</item>
+        <item>Minnesota</item>
+        <item>Mississippi</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit">Submit</string>
+    <string name="true1">True</string>
+    <string name="false1">False</string>
+    <string name="ageStr">Select Your Age</string>
+    <string name="cali">California</string>
+    <string name="hi">Hawaii</string>
+    <string name="mn">Minnesota</string>
+    <string name="mi">Mississippi</string>
+    <string name="nextTxt">Next</string>
+</resources>

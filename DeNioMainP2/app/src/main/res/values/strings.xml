@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DeNioMainP2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="heading">Welcome to Green Forest Adventurer</string>
+    <string name="entryTxt">You have entered Green Forest a place teaming with bandits and vicious spiders. Your mission is to make it through the forest alive. Killing bandits will give you weapon upgrades and spiders will give you venom to poison your weapons. Good luck!</string>
+    <string name="startBtn">Start</string>
+    <string name="armorLTxt">Armor Value</string>
+    <string name="defaultValue">5</string>
+    <string name="attckLblTxt">Attack Power </string>
+    <string name="fight">Fight</string>
+    <string name="run">Run Away</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="mainHeading">Green Forest Adventure</string>
+    <string name="congradulations">Congradulations You have Made Your Way Through Green Forest!</string>
+    <string name="aboutStr">About The Author</string>
+    <string name="aboutMe">Joshua DeNio is an aspiring computer scientist from Hilo Hawaii. This is his first Android game with many hopefully to follow.</string>
+    <string name="numEn">Select number of encounters.</string>
+    <string name="ten">10</string>
+    <string name="five">5</string>
+    <string name="stats">Select base Stats</string>
+    <string name="six">6</string>
+    <string name="backgroundC">Change background</string>
+    <string name="light">Light Backgroud</string>
+    <string name="norm">Normal</string>
+</resources>

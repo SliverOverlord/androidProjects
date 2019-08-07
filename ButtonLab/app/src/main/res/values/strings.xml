@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ButtonLab</string>
+    <string name="hint">Enter Name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="greet_me">Greet me</string>
+    <string name="hello_there" />
+    <string name="greet_me3">Greet Me</string>
+    <string name="hello_there2" />
+</resources>

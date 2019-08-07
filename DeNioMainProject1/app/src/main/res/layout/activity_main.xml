@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/welcomeLbl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_columnSpan="3"
+        android:text="@string/welcomeTxt" />
+
+    <TextView
+        android:id="@+id/nameLbl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="1"
+        android:layout_column="0"
+        android:layout_gravity="right"
+        android:paddingRight="@dimen/size20dp"
+        android:text="@string/nameLbl" />
+
+    <EditText
+        android:id="@+id/nameF"
+        android:layout_width="161dp"
+        android:layout_height="wrap_content"
+        android:layout_row="1"
+        android:layout_column="2"
+        android:ems="10"
+        android:hint="@string/nameHint"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/startBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="2"
+        android:layout_row="3"
+        android:paddingTop="@dimen/top10dp"
+        android:text="@string/startBtnText" />
+
+    <SeekBar
+        android:id="@+id/ageBar"
+        android:layout_width="156dp"
+        android:layout_height="wrap_content"
+        android:layout_row="2"
+        android:layout_column="2"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:id="@+id/ageLbl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="2"
+        android:layout_column="0"
+        android:text="@string/ageStr" />
+
+    <TextView
+        android:id="@+id/ageOut"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="2"
+        android:layout_column="3"
+        android:textColor="@color/blue"
+        android:textSize="@dimen/textSize32sp" />
+
+</GridLayout>

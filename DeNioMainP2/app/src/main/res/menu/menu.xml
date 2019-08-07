@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_live_tv_black_24dp"
+        android:title="Back to Game"
+        />
+    <item
+        android:id="@+id/preferences"
+        android:icon="@drawable/ic_account_box_black_24dp"
+        android:title="info"
+        />
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_web_black_24dp"
+        android:title="About"
+        />
+
+
+</menu>

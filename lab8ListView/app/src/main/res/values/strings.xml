@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lab8ListView</string>
+
+    <string-array name="empNames">
+        <item>Joe</item>
+        <item>Mary</item>
+        <item>Bill</item>
+        <item>James</item>
+        <item>Ann</item>
+        <item>Sue</item>
+        <item>David</item>
+    </string-array>
+
+</resources>

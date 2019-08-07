@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DeNioA1</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="major">Major</string>
+    <string name="hometown">Hometown</string>
+    <string name="font_c">casual</string>
+
+
+</resources>

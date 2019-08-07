@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DeNioFinalProject</string>
+    <string name="mainHeader">Welcome To The Android CookBook</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="headderTxt">CookBook App</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="inventory">Inventory</string>
+    <string name="shoppingListLbl">Shopping List</string>
+</resources>

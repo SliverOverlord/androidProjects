@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"
+        />
+    <item
+        android:id="@+id/navigation_internet"
+        android:icon="@drawable/ic_web_black_24dp"
+        android:title="Web"
+        />
+    <item
+        android:id="@+id/navigation_info"
+        android:icon="@drawable/ic_account_box_black_24dp"
+        android:title="info"
+        />
+    <item
+        android:id="@+id/navigation_movies"
+        android:icon="@drawable/ic_live_tv_black_24dp"
+        android:title="Movies"
+        />
+    <item
+        android:id="@+id/navigation_loan"
+        android:icon="@drawable/ic_attach_money_black_24dp"
+        android:title="Loan"
+        />
+
+</menu>

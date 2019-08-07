@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DeNioA1</string>
+    <string name="first_name">Vorname</string>
+    <string name="last_name">Nachname</string>
+    <string name="hometown">Heimatstadt</string>
+    <string name="font_c">casual</string>
+    <string name="major">Großen</string>
+
+
+
+
+</resources>

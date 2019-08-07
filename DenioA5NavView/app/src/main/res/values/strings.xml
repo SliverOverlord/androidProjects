@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DenioA5NavView</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome To My A5 App</string>
+    <string name="info">My name is Joshua DeNio Im from Hilo Hawaii.</string>
+    <string name="webHint">Enter a URL</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="interest">Interest Rate</string>
+    <string name="loanAmount">Loan Amount</string>
+    <string name="years">Yearss</string>
+    <string name="submit">Submit</string>
+</resources>

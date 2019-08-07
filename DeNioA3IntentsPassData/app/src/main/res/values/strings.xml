@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DeNioA3IntentsPassData</string>
+    <string name="name">Name</string>
+    <string name="hours">Hours</string>
+    <string name="payrate">Payrate</string>
+    <string name="add">Add</string>
+    <string name="showAll">Show All</string>
+    <string name="payReport">Pay Report</string>
+</resources>
